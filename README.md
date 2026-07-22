@@ -1,8 +1,12 @@
-# Territory Demo
+# GPS Territory Demo
 
 A single-file browser prototype of GPS-based territory capture. Start an activity, move, and every grid tile your route crosses is claimed and filled in behind you.
 
 Built as a technical proof for a gamified fitness app concept: run, walk or cycle to take control of real-world map zones.
+
+**[▶ Try it live](https://alex-buran.github.io/gps-territory-demo/)** — demo mode needs no permissions and runs in about 20 seconds.
+
+<img src="demo.gif" width="320" alt="Demo mode: a route draws across the map and the grid tiles it crosses fill in teal, ending on a summary of distance, time, pace and zones captured.">
 
 ## Demo
 
